@@ -22,7 +22,7 @@ This project is a part of Data Scientist Nano degree program offered by Udacity.
 There is one exploratory notebook available here to showcase my work in predicting churn with  markdown cells throughout to explain the process taken.
 
 ## Medium Blog Post 
-The main findings of the code can be found at the Medium Blog post available 
+The main findings of the code can be found at the Medium Blog post available here: https://medium.com/@muralidhark36/sparkify-customer-churn-prediction-1936f3dcd712
 A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.77. 
 
 ## Licensing, Authors, Acknowledgements, etc.
